@@ -1,0 +1,15 @@
+.boton1{
+    background-color: rgb(94,89,175);
+    color: rgb (7,37,63);
+}
+.boton2{
+    background-color: rgb(48,7,7);
+    border-radius: 15px;
+    color: rgb(4,22,37);
+    padding: 10px 10px;
+}
+.boton3{
+    border-radius: 15px;
+    color: rgb(58,7,38);
+    background-color: rgb(44,8,44,0.74);
+    padding: 10px 10px; 
