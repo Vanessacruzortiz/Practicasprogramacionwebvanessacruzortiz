@@ -13,3 +13,8 @@
     color: rgb(58,7,38);
     background-color: rgb(44,8,44,0.74);
     padding: 10px 10px; 
+    text-align: end;
+    border:none;
+    font-size:20px;
+    font-family: cursive;
+}
